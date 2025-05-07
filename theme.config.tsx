@@ -4,7 +4,8 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <b>Skyfleet Dash</b>,
   project: {
-    link: 'https://skyfleetdash.com`',
+    icon: <></>,
+    link: null,
   },
   chat: {
     link: 'https://discord.com',
